@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "host": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\work\\github\\Rpc\\Host\\bin\\Debug\\net461\\host.exe"
+    }
+  }
+}
